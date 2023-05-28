@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe.config
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.pdb
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.exe
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.pdb
